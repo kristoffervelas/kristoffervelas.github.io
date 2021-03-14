@@ -1,0 +1,84 @@
+#Main Learning Websites
+
+Coursera
+https://www.coursera.org/
+
+Khan Academy
+https://www.khanacademy.org/
+
+Open Culture: Online Courses
+http://www.openculture.com/freeonlinecourses
+
+Udemy
+https://www.udemy.com/
+
+Academic Earth
+http://academicearth.org/
+
+edX
+https://www.edx.org/
+
+Alison
+http://alison.com/
+
+
+#Courses and Classes offered from Universities
+
+MIT Open Courseware
+https://ocw.mit.edu/
+
+UC Berkeley Class Central
+https://www.class-central.com/university/berkeley
+
+Yale Courses(Open)
+http://oyc.yale.edu/
+
+Harvard Extension
+http://www.extension.harvard.edu/open-learning-initiative
+
+Stanford|ONLINE
+http://online.stanford.edu/courses
+
+Carnegie Mellon University Open Learning Initiative
+http://oli.cmu.edu/learn-with-oli/see-our-free-open-courses/
+
+
+EVERYTHING BEFORE THIS IS FINISHED
+
+
+#Code Learning
+
+Code
+https://code.org/learn
+
+Codeacademy
+https://www.codecademy.com/
+
+Sololearn
+https://www.sololearn.com/
+
+FreeCodeCamp
+https://www.freecodecamp.org/
+
+#Online Tools
+
+Desmos
+https://www.desmos.com/
+
+WolframAlpha
+https://www.wolframalpha.com/
+
+Google Docs
+https://docs.google.com/
+
+
+
+##
+Make a google form asking for the feedback and put a button for the google form in the header
+
+
+
+GOOGLE FORM
+https://docs.google.com/forms/d/e/1FAIpQLScS3hBpvLD0anA5moCteg6BGrJ-UqstzobctkEXL9WgiJ3w5w/viewform?usp=sf_link
+
+

@@ -1,0 +1,307 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+
+}
+
+.header{
+    width: 100%;
+    height: 120px;
+    display: block;
+    background-color: rgb(0,255,127);
+ 	border: 1;
+
+}
+
+.inner_header{
+    width: 1000px;
+    height: 100%;
+    display: block;
+    margin: 0 auto;
+    
+}
+
+body {
+	background-color: "white";
+	padding-bottom: 50px;
+  }
+
+h1 {
+    color: black;
+	text-align: center;
+}
+
+
+p.pone {
+	position: absolute;
+	top: 140px;
+	margin-top: 0;
+	padding-right: 15px;
+	padding-left: 20px;
+	font: Arial;
+	font-size: 30px;
+	margin: 0;
+	border: 1;
+	
+
+}
+
+p.ptwo {
+	position: absolute;
+	top: 1700px;
+	margin-top: 0;
+	padding-right: 15px;
+	padding-left: 20px;
+	font: Arial;
+	font-size: 30px;
+	margin: 0;
+	border: 1;
+	color: white;
+	
+
+}
+
+
+
+#button1 {
+
+	position: absolute;
+	left: 280px;
+	top: 400px;
+	background-color: #00FF00;
+	border: none;
+	color: "white";
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: inline-block;
+	font-size: 20px;
+}
+
+
+#button2 {
+
+	position: absolute;
+	left: 950px;
+	top: 400px;
+	background-color: #00FF00;
+	border: none;
+	color: "white";
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: inline-block;
+	font-size: 20px;
+}
+
+#button3 {
+
+	position: absolute;
+	left: 200px;
+	top: 800px;
+	background-color: #00FF00;
+	border: none;
+	color: "white";
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: inline-block;
+	font-size: 20px;
+}
+
+#button4 {
+
+	position: absolute;
+	left: 980px;
+	top: 800px;
+	background-color: #00FF00;
+	border: none;
+	color: "white";
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: inline-block;
+	font-size: 20px;
+}
+
+#button5 {
+
+	position: absolute;
+	left: 250px;
+	top: 1200px;
+	background-color: #00FF00;
+	border: none;
+	color: "white";
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: inline-block;
+	font-size: 20px;
+}
+
+#button6 {
+
+	position: absolute;
+	left: 990px;
+	top: 1200px;
+	background-color: #00FF00;
+	border: none;
+	color: "white";
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: inline-block;
+	font-size: 20px;
+}
+
+#button7 {
+
+	position: absolute;
+	left: 275px;
+	top: 1600px;
+	background-color: #00FF00;
+	border: none;
+	color: "white";
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: inline-block;
+	font-size: 20px;
+	padding-bottom: 20px;
+	margin: 10px;
+}
+
+#page2button {
+
+	position: absolute;
+	left: 70px;
+	top: 50px;
+	background-color: #d9ff04;
+	border: none;
+	color: "white";
+	padding: 5px 10px;
+	text-align: center;
+	text-decoration: inline-block;
+	font-size: 20px;
+	padding-bottom: 20px;
+	
+}
+
+#page3button {
+
+	position: absolute;
+	left: 260px;
+	top: 50px;
+	background-color: #d9ff04;
+	border: none;
+	color: "white";
+	padding: 5px 10px;
+	text-align: center;
+	text-decoration: inline-block;
+	font-size: 20px;
+	padding-bottom: 20px;
+	
+}
+
+#page4button {
+
+	position: absolute;
+	left: 560px;
+	top: 50px;
+	background-color: #d9ff04;
+	border: none;
+	color: "white";
+	padding: 5px 10px;
+	text-align: center;
+	text-decoration: inline-block;
+	font-size: 20px;
+	padding-bottom: 20px;
+	
+}
+
+#page5button {
+
+	position: absolute;
+	left: 700px;
+	top: 50px;
+	background-color: #d9ff04;
+	border: none;
+	color: "white";
+	padding: 5px 10px;
+	text-align: center;
+	text-decoration: inline-block;
+	font-size: 20px;
+	padding-bottom: 20px;
+	
+}
+
+
+
+/* IMAGES */
+
+.coursera {
+	
+	position: absolute;
+	left: 280px;
+	top: 210px;
+	width: 150px;
+	height: 150px;
+
+}
+
+.khan {
+	
+	position: absolute;
+	left: 970px;
+	top: 210px;
+	width: 150px;
+	height: 150px;
+
+}
+.oc {
+	
+	position: absolute;
+	left: 280px;
+	top: 600px;
+	width: 150px;
+	height: 150px;
+
+}
+
+.udemy {
+	
+	position: absolute;
+	left: 970px;
+	top: 600px;
+	width: 150px;
+	height: 150px;
+
+}
+
+.ae {
+	
+	position: absolute;
+	left: 280px;
+	top: 1010px;
+	width: 150px;
+	height: 150px;
+
+}
+
+.edx {
+	
+	position: absolute;
+	left: 970px;
+	top: 1010px;
+	width: 150px;
+	height: 150px;
+
+}
+
+.alison {
+	
+	position: absolute;
+	left: 220px;
+	top: 1400px;
+	width: 250px;
+	height: 150px;
+
+}
+
+
+
